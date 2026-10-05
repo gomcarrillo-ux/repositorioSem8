@@ -1,0 +1,6 @@
+Nombre: Tr
+Apellidos: Er
+Notas: 67.0, 89.0
+Promedio: 78.0
+Máxima: 89.0
+Mínima: 67.0
